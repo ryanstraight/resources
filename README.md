@@ -1,4 +1,8 @@
 
+<img src="assets/banner.png" width="3360" />
+
+------------------------------------------------------------------------
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 I’ll do my best to keep this organized but I apologize if it’s perhaps a

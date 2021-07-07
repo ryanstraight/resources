@@ -5,6 +5,12 @@ output:
     toc_depth: 2
 ---
 
+```{r banner, echo=FALSE}
+knitr::include_graphics("assets/banner.png")
+```
+
+-----
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r setup, include = FALSE, echo=FALSE}
