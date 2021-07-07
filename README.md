@@ -18,6 +18,8 @@ little untidy.
     Free](https://www.canva.com/)
 -   [Beautiful Free Images & Pictures \|
     Unsplash](https://unsplash.com/)
+-   [Artlist - Royaly Free Music Licensing For VideosMusic Licensing For
+    Video](https://artlist.io/)
 
 # R
 
@@ -43,6 +45,10 @@ Anything related to the R language, specifically.
 -   [Welcome to Text Mining with R \| Text Mining with
     R](https://www.tidytextmining.com/index.html)
 -   [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
+-   [MAT381E/About-course: This repository involves Course info for
+    MAT381E: Introduction to Data Science and some useful links for data
+    sources available on the
+    web.](https://github.com/MAT381E/About-course)
 
 ## Tools
 
@@ -62,6 +68,16 @@ Anything related to the R language, specifically.
     metathis](https://pkg.garrickadenbuie.com/metathis/)
 -   [R-CoderDotCom/calendR: Ready to print calendars with
     ggplot2](https://github.com/R-CoderDotCom/calendR#further-customization)
+-   [yonicd/details: R Package to Create Details HTML Tag for Markdown
+    and Package Documentation](https://github.com/yonicd/details)
+-   [emitanaka/edibble: An R-package to construct designs using the
+    grammar of experimental
+    design](https://github.com/emitanaka/edibble)
+-   [MilesMcBain/datapasta: On top of spaghetti, all covered in
+    cheese….](https://github.com/milesmcbain/datapasta)
+-   [Call R from R • callr](https://callr.r-lib.org/)
+-   [stla/findInFiles: Find a pattern in some
+    files.](https://github.com/stla/findInFiles)
 
 ## Project management
 
@@ -76,6 +92,12 @@ Anything related to the R language, specifically.
     proposals](http://www.citizen-statistician.org/2020/11/github-workflow-for-data-science-project-proposals/)
     -   Related to [IDS](https://www.introds.org/) and [Welcome \| Data
         Science in a Box](https://datasciencebox.org/)
+-   [RealityBending/TemplateResults: A template for a data analysis
+    folder that can be easily exported as a webpage or as Supplementary
+    Materials](https://github.com/RealityBending/TemplateResults)
+-   [startyourlab/r-project-template: A template to start R projects
+    with R Studio, using version control via Git and GitHub by
+    default.](https://github.com/startyourlab/r-project-template)
 
 ## RMarkdown
 
@@ -109,15 +131,34 @@ Anything related to the R language, specifically.
     -   (This works in RMarkdown files.)
 -   [Getting Started with R
     Markdown](https://ourcodingclub.github.io/tutorials/rmarkdown/#insert)
+-   [Embed Video in HTML •
+    vembedr](https://ijlyttle.github.io/vembedr/index.html)
+-   [dreamRs/gfonts: Offline Google Fonts for rmarkdown and
+    shiny](https://github.com/dreamRs/gfonts)
+-   [eddelbuettel/linl: Linl Is Not Letter – Markdown-based LaTeX Letter
+    Template](https://github.com/eddelbuettel/linl)
+-   [Another Academic R Markdown Article/Manuscript Template \|
+    Steven V.
+    Miller](http://svmiller.com/blog/2020/09/another-rmarkdown-article-template/)
+-   [cynkra/indiedown: Individual RMarkdown
+    Templates](https://github.com/cynkra/indiedown)
+-   [carpentries/glosario: A multilingual glossary
+    package.](https://github.com/carpentries/glosario)
+-   
 
 ### Xaringan-specific
 
 -   [xaringanExtra](https://pkg.garrickadenbuie.com/xaringanExtra/#/)
+-   [Professional, Polished,
+    Presentable](https://presentable-user2021.netlify.app/)
 
 ## Visualization
 
-Tables, figures, et cetera.
+Tables, figures, EDA, et cetera.
 
+-   [htmlwidgets for R - gallery](http://gallery.htmlwidgets.org/)
+-   [Introduction to
+    metricsgraphics](http://hrbrmstr.github.io/metricsgraphics/)
 -   [rstudio/r2d3: R Interface to D3
     Visualizations](https://github.com/rstudio/r2d3)
 -   [davidgohel/flextable: table
@@ -129,6 +170,26 @@ Tables, figures, et cetera.
     tutorials, packages
     etc.](https://github.com/erikgahner/awesome-ggplot2)
     -   (A huge, truly awesome list.)
+-   [Axes
+    (ggplot2)](http://www.cookbook-r.com/Graphs/Axes_(ggplot2)/#axis-labels-and-text-formatting)
+-   [Graphics in R with ggplot2 - Stats and
+    R](https://statsandr.com/blog/graphics-in-r-with-ggplot2/#axis-ticks)
+-   [rolkra/explore: R package that makes basic data exploration
+    radically simple (interactive data exploration, reproducible data
+    science)](https://github.com/rolkra/explore)
+-   [feddelegrand7/cronologia: 🌱 🌱 🌱 Create an HTML Vertical Timeline
+    Widget in RMarkdown and
+    Shiny](https://github.com/feddelegrand7/cronologia)
+-   [rstudio/gt: Easily generate information-rich, publication-quality
+    tables from R](https://github.com/rstudio/gt)
+-   [Collapsible Tree: Geography
+    Example](https://adeelk93.github.io/collapsibleTree/)
+-   [slickR
+    Basics](https://cran.r-project.org/web/packages/slickR/vignettes/basics.html)
+-   [Make ggplot2 Graphics Interactive • ggiraph
+    package](https://davidgohel.github.io/ggiraph/index.html)
+-   [daattali/timevis: 📅 Create interactive timeline visualizations in
+    R](https://github.com/daattali/timevis#readme)
 
 # Statistics
 
@@ -136,13 +197,16 @@ Tables, figures, et cetera.
     …](https://www.discoveringstatistics.com/)
 -   [homepage \| Stats Video
     Textbook](https://bryankoenig.wixsite.com/statsvideotextbook)
+-   [Stats and R](https://statsandr.com/)
+-   [Statistics glossary - Google
+    Docs](https://docs.google.com/document/d/1dsiubZK689KwdiVj2Uv0vLAGkV_BtCuaEIOgg_BaGm8/edit#heading=h.3ajbdlewhre5)
 
 # Scholarship
 
 General scholarship content, like research advice, how to cite, find
 funding opportunities, and so on.
 
-## Tips on Writing and Doing Research
+## Writing and Doing Research
 
 -   [How to do Graduate Research, Some
     Advice](https://www.ece.rutgers.edu/~cps/assets/extras/HowToDoResearch_ANRG_WP02001.pdf)
@@ -161,6 +225,8 @@ funding opportunities, and so on.
         pipeline](https://twitter.com/andrewheiss/status/1201892963451842562),
         based on [Matt Lebo’s “Managing Your Research
         Pipeline”](https://doi.org/10.1017/S1049096516000160).)
+-   [Documenting your projects on GitHub · GitHub
+    Guides](https://guides.github.com/features/wikis/)
 
 ## Citation
 
@@ -212,12 +278,21 @@ funding opportunities, and so on.
     -   (Privacy-focused, federalized Instagram replacement.)
 -   [Giving social networking back to you -
     Mastodon](https://joinmastodon.org/)
+-   [jivoi/awesome-ml-for-cybersecurity: Machine Learning for Cyber
+    Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 # Mixed Reality
 
+-   [Matterport: Capture, share, and collaborate the built world in
+    immersive 3D](https://matterport.com/)
 -   [Build mixed reality digital twins with Azure Digital Twins and
     Unity - Learn \| Microsoft
     Docs](https://docs.microsoft.com/en-us/learn/paths/build-mixed-reality-azure-digital-twins-unity/?wt.mc_id=AID3034732_QSG_EML_NLTR_535611&ocid=AID3034732_QSG_EML_NLTR_535611#msdynttrid=frqFGqwf-Rq_ZwiP1IyZKam19SthJ235QA8xP9vuvpc)
+-   [Volumetric Video Capture Booth \| Capture HD Static & Dynamic 3D
+    Models](https://mantis-vision.com/3d-studio-3iosk/)
+-   [Home \| XR Access Initiative](https://xraccess.org/)
+-   [Making VR a Reality in the Classroom \|
+    EDUCAUSE](https://er.educause.edu/articles/2021/4/making-vr-a-reality-in-the-classroom?m_i=QtSCd1kwMt4ufLb31pY2T4iKbEMKe1ssE%2BDz_jkqp%2BH7jTCTry5MLwunOB3PCXcohU_u6yUmNer0ShG7XwPOg0GxVSl0b%2BBQQ_&M_BT=2225012242)
 
 # Podcasting
 
