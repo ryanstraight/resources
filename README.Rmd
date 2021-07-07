@@ -43,6 +43,7 @@ Anything related to the R language, specifically.
 + [Tidymodels: tidy machine learning in R](https://www.rebeccabarter.com/blog/2020-03-25_machine_learning/)
     + (A great walkthrough using `tidymodels`.)
 + [Welcome to Text Mining with R | Text Mining with R](https://www.tidytextmining.com/index.html)
++ [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
 
 ## Tools
 
@@ -53,6 +54,8 @@ Anything related to the R language, specifically.
 + [dreamRs/shinyWidgets: shinyWidgets : Extend widgets available in shiny](https://github.com/dreamRs/shinyWidgets)
 + [r-lib/waldo: Find differences between R objects](https://github.com/r-lib/waldo/)
 + [HTML Metadata Tags for R Markdown and Shiny • metathis](https://pkg.garrickadenbuie.com/metathis/)
++ [R-CoderDotCom/calendR: Ready to print calendars with ggplot2](https://github.com/R-CoderDotCom/calendR#further-customization)
+
 
 ## Project management
 
@@ -64,6 +67,7 @@ Anything related to the R language, specifically.
 
 ## RMarkdown
 
++ [papaja: Reproducible APA manuscripts with R Markdown](http://frederikaust.com/papaja_man/)
 + [A rmarkdown Template that Can be Highly Customized • memor](https://hebrewseniorlife.github.io/memor/)
 + [GerkeLab/betterposter: Another R Markdown Better Scientific Poster](https://github.com/GerkeLab/betterposter)
 + [Introducing the flipdownr package. Create a CountDown in Rmarkdown Documents and Shiny Apps | Mohamed El Fodil IHADDADEN](https://ihaddadenfodil.com/post/introducing-the-flipdownr-package-create-a-countdown-in-rmarkdown-documents-and-shiny-apps/)
@@ -88,6 +92,10 @@ Tables, figures, et cetera.
 
 + [rstudio/r2d3: R Interface to D3 Visualizations](https://github.com/rstudio/r2d3)
 + [davidgohel/flextable: table farming](https://github.com/davidgohel/flextable)
++ [arthurwelle/codehover: Hoverable HTML Table for Displaying Intermediary Code Results (e.g. Pipes)](https://github.com/arthurwelle/codehover/)
++ [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
+    + (A huge, truly awesome list.)
+
 
 # Statistics
 
@@ -110,6 +118,8 @@ General scholarship content, like research advice, how to cite, find funding opp
 
 ## Citation
 
++ [papaja: Reproducible APA manuscripts with R Markdown](http://frederikaust.com/papaja_man/)
+    + (It's important enough that it's here *and* in the R section.)
 + [Reference List: Author/Authors // Purdue Writing Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_author_authors.html)
 
 ## Surveys
@@ -132,13 +142,23 @@ General scholarship content, like research advice, how to cite, find funding opp
 
 # Security and Privacy
 
++ [PrivacyTools - Encryption Against Global Mass Surveillance](https://privacytools.io/)
+    + (Big collection of privacy tools ranging from providers, browsers, software, operating systems, and more.)
++ [CryptPad: Collaboration suite, encrypted and open-source](https://cryptpad.fr/)
+    + (Has fully encrypted alternatives for Google Drive, surveys, Slack teams, and so on.)
 + [Sign Git Commits With A Keybase GPG Key – Stephen's Thoughts](https://stephenreescarter.net/signing-git-commits-with-a-keybase-gpg-key/)
-
++ [ExifCleaner - FREE Desktop app to clean image metadata](https://exifcleaner.com/)
++ [Pixelfed - Federated Image Sharing](https://pixelfed.org/)
+    + (Privacy-focused, federalized Instagram replacement.)
++ [Giving social networking back to you - Mastodon](https://joinmastodon.org/)
 
 # Mixed Reality
 
 + [Build mixed reality digital twins with Azure Digital Twins and Unity - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/build-mixed-reality-azure-digital-twins-unity/?wt.mc_id=AID3034732_QSG_EML_NLTR_535611&ocid=AID3034732_QSG_EML_NLTR_535611#msdynttrid=frqFGqwf-Rq_ZwiP1IyZKam19SthJ235QA8xP9vuvpc)
 
+# Podcasting
+
++ [Headliner - Promote your podcast, radio show or blog with video](https://www.headliner.app/)
 
 # Fun
 

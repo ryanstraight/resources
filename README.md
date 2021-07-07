@@ -18,6 +18,7 @@
 -   [Communication](#communication)
 -   [Security and Privacy](#security-and-privacy)
 -   [Mixed Reality](#mixed-reality)
+-   [Podcasting](#podcasting)
 -   [Fun](#fun)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -59,6 +60,7 @@ Anything related to the R language, specifically.
     -   (A great walkthrough using `tidymodels`.)
 -   [Welcome to Text Mining with R \| Text Mining with
     R](https://www.tidytextmining.com/index.html)
+-   [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
 
 ## Tools
 
@@ -76,6 +78,8 @@ Anything related to the R language, specifically.
     objects](https://github.com/r-lib/waldo/)
 -   [HTML Metadata Tags for R Markdown and Shiny •
     metathis](https://pkg.garrickadenbuie.com/metathis/)
+-   [R-CoderDotCom/calendR: Ready to print calendars with
+    ggplot2](https://github.com/R-CoderDotCom/calendR#further-customization)
 
 ## Project management
 
@@ -93,6 +97,8 @@ Anything related to the R language, specifically.
 
 ## RMarkdown
 
+-   [papaja: Reproducible APA manuscripts with R
+    Markdown](http://frederikaust.com/papaja_man/)
 -   [A rmarkdown Template that Can be Highly Customized •
     memor](https://hebrewseniorlife.github.io/memor/)
 -   [GerkeLab/betterposter: Another R Markdown Better Scientific
@@ -134,6 +140,13 @@ Tables, figures, et cetera.
     Visualizations](https://github.com/rstudio/r2d3)
 -   [davidgohel/flextable: table
     farming](https://github.com/davidgohel/flextable)
+-   [arthurwelle/codehover: Hoverable HTML Table for Displaying
+    Intermediary Code Results
+    (e.g. Pipes)](https://github.com/arthurwelle/codehover/)
+-   [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2
+    tutorials, packages
+    etc.](https://github.com/erikgahner/awesome-ggplot2)
+    -   (A huge, truly awesome list.)
 
 # Statistics
 
@@ -161,6 +174,9 @@ funding opportunities, and so on.
 
 ## Citation
 
+-   [papaja: Reproducible APA manuscripts with R
+    Markdown](http://frederikaust.com/papaja_man/)
+    -   (It’s important enough that it’s here *and* in the R section.)
 -   [Reference List: Author/Authors // Purdue Writing
     Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_author_authors.html)
 
@@ -190,14 +206,33 @@ funding opportunities, and so on.
 
 # Security and Privacy
 
+-   [PrivacyTools - Encryption Against Global Mass
+    Surveillance](https://privacytools.io/)
+    -   (Big collection of privacy tools ranging from providers,
+        browsers, software, operating systems, and more.)
+-   [CryptPad: Collaboration suite, encrypted and
+    open-source](https://cryptpad.fr/)
+    -   (Has fully encrypted alternatives for Google Drive, surveys,
+        Slack teams, and so on.)
 -   [Sign Git Commits With A Keybase GPG Key – Stephen’s
     Thoughts](https://stephenreescarter.net/signing-git-commits-with-a-keybase-gpg-key/)
+-   [ExifCleaner - FREE Desktop app to clean image
+    metadata](https://exifcleaner.com/)
+-   [Pixelfed - Federated Image Sharing](https://pixelfed.org/)
+    -   (Privacy-focused, federalized Instagram replacement.)
+-   [Giving social networking back to you -
+    Mastodon](https://joinmastodon.org/)
 
 # Mixed Reality
 
 -   [Build mixed reality digital twins with Azure Digital Twins and
     Unity - Learn \| Microsoft
     Docs](https://docs.microsoft.com/en-us/learn/paths/build-mixed-reality-azure-digital-twins-unity/?wt.mc_id=AID3034732_QSG_EML_NLTR_535611&ocid=AID3034732_QSG_EML_NLTR_535611#msdynttrid=frqFGqwf-Rq_ZwiP1IyZKam19SthJ235QA8xP9vuvpc)
+
+# Podcasting
+
+-   [Headliner - Promote your podcast, radio show or blog with
+    video](https://www.headliner.app/)
 
 # Fun
 
