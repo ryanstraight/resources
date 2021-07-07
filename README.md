@@ -153,6 +153,14 @@ funding opportunities, and so on.
 
 -   [The PARA Method: A Universal System for Organizing Digital
     Information - Forte Labs](https://fortelabs.co/blog/para/)
+-   [Create a dynamic dashboard with R, flexdashboard, and Shiny \|
+    Andrew
+    Heiss](https://www.andrewheiss.com/blog/2020/01/01/flexdashboard-dynamic-data/)
+    -   (The successor to the original [dashboard to show the status of
+        the
+        pipeline](https://twitter.com/andrewheiss/status/1201892963451842562),
+        based on [Matt Lebo’s “Managing Your Research
+        Pipeline”](https://doi.org/10.1017/S1049096516000160).)
 
 ## Citation
 
