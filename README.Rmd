@@ -1,0 +1,23 @@
+---
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE, echo=FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  comment = "#>"
+)
+```
+
+# Resources
+
+> A collection of various tips, tricks, applications, tools, websites, how-tos, and what-have-yous.
+
