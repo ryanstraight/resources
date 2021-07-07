@@ -1,7 +1,7 @@
 ---
 output:
   github_document:
-    toc: true
+    toc: false
     toc_depth: 2
 ---
 

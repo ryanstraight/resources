@@ -1,26 +1,4 @@
 
--   [Graphics and Design](#graphics-and-design)
--   [R](#r)
-    -   [Learning and Teaching with R](#learning-and-teaching-with-r)
-    -   [Tools](#tools)
-    -   [Project management](#project-management)
-    -   [RMarkdown](#rmarkdown)
-    -   [Visualization](#visualization)
--   [Statistics](#statistics)
--   [Scholarship](#scholarship)
-    -   [Tips on Writing and Doing
-        Research](#tips-on-writing-and-doing-research)
-    -   [Project Management](#project-management-1)
-    -   [Citation](#citation)
-    -   [Surveys](#surveys)
-    -   [Funding Opportunities](#funding-opportunities)
-    -   [Peer review](#peer-review)
--   [Communication](#communication)
--   [Security and Privacy](#security-and-privacy)
--   [Mixed Reality](#mixed-reality)
--   [Podcasting](#podcasting)
--   [Fun](#fun)
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 I’ll do my best to keep this organized but I apologize if it’s perhaps a
