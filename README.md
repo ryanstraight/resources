@@ -1,12 +1,18 @@
 
-<img src="assets/banner.png" width="3360" />
+<img src="assets/banner.png" width="1200" />
 
 ------------------------------------------------------------------------
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- README.md is generated from README.Rmd. Please edit the Rmd file, as edits to the md file will be overwritten! -->
+<!-- Badges begin -->
+
+![GitHub last
+commit](https://img.shields.io/github/last-commit/ryanstraight/resources)
+<!-- Badges end -->
 
 I’ll do my best to keep this organized but I apologize if it’s perhaps a
-little untidy.
+little untidy. If you feel like something should be added, go ahead and
+do a pull request and I’ll check it out.
 
 # Graphics and Design
 
@@ -303,3 +309,19 @@ funding opportunities, and so on.
 
 -   [DOOM Captcha - Captchas don’t have to be
     boring](https://vivirenremoto.github.io/doomcaptcha/)
+
+------------------------------------------------------------------------
+
+# License
+
+<!-- CC license begin -->
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+<a property="dct:title" rel="cc:attributionURL" href="https://github.com/ryanstraight/resources/">Resources</a>
+by
+<a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://ryanstraight.com">Ryan
+Straight</a> is licensed under
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-ShareAlike
+4.0
+International<br /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+</p>
+<!-- CC license end -->
