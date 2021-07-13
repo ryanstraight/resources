@@ -26,6 +26,12 @@ do a pull request and I’ll check it out.
     Unsplash](https://unsplash.com/)
 -   [Artlist - Royaly Free Music Licensing For VideosMusic Licensing For
     Video](https://artlist.io/)
+-   [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en)
+-   [Simple Icons \| 1965 Free SVG icons for popular
+    brands](https://simpleicons.org/)
+-   [Browse Your Life in Pictures – PhotoPrism](https://photoprism.app/)
+    -   Privately hosted, open source photo organization tool (think
+        Google Photos but local).
 
 # R
 
