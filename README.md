@@ -274,14 +274,12 @@ funding opportunities, and so on.
 
 # Security and Privacy
 
+## General
+
 -   [PrivacyTools - Encryption Against Global Mass
     Surveillance](https://privacytools.io/)
     -   (Big collection of privacy tools ranging from providers,
         browsers, software, operating systems, and more.)
--   [CryptPad: Collaboration suite, encrypted and
-    open-source](https://cryptpad.fr/)
-    -   (Has fully encrypted alternatives for Google Drive, surveys,
-        Slack teams, and so on.)
 -   [Sign Git Commits With A Keybase GPG Key – Stephen’s
     Thoughts](https://stephenreescarter.net/signing-git-commits-with-a-keybase-gpg-key/)
 -   [ExifCleaner - FREE Desktop app to clean image
@@ -292,6 +290,31 @@ funding opportunities, and so on.
     Mastodon](https://joinmastodon.org/)
 -   [jivoi/awesome-ml-for-cybersecurity: Machine Learning for Cyber
     Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
+## File storage and sharing
+
+-   [canton7/SyncTrayzor: Windows tray utility / filesystem watcher /
+    launcher for Syncthing](https://github.com/canton7/SyncTrayzor)
+-   [🧅 OnionShare](https://onionshare.org/)
+    -   (“an open source tool that lets you securely and anonymously
+        share files, host websites, and chat with friends using the Tor
+        network.”)
+
+## Collaboration
+
+-   [CryptPad: Collaboration suite, encrypted and
+    open-source](https://cryptpad.fr/)
+    -   (Has fully encrypted alternatives for Google Drive, surveys,
+        Slack teams, and so on.)
+-   [Turtl: The secure, collaborative notebook \|
+    Turtl](https://turtlapp.com/)
+    -   (Can be used to save bookmarks and whatnot with the browser
+        extension.)
+
+## Network
+
+-   [Mullvad VPN - Privacy is a universal
+    right](https://mullvad.net/en/)
 
 # Mixed Reality
 
