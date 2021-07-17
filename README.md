@@ -1,4 +1,15 @@
 
+-   [Graphics and Design](#graphics-and-design)
+-   [R](#r)
+-   [Statistics](#statistics)
+-   [Scholarship](#scholarship)
+-   [Communication](#communication)
+-   [Security and Privacy](#security-and-privacy)
+-   [Mixed Reality](#mixed-reality)
+-   [Podcasting](#podcasting)
+-   [Fun](#fun)
+-   [License](#license)
+
 <img src="assets/banner.png" width="1200" />
 
 ------------------------------------------------------------------------

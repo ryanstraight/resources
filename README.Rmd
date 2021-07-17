@@ -1,8 +1,8 @@
 ---
 output:
   github_document:
-    toc: false
-    toc_depth: 2
+    toc: true
+    toc_depth: 1
 ---
 
 ```{r banner, echo=FALSE}
