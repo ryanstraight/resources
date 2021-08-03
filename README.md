@@ -2,11 +2,13 @@
 -   [Graphics and Design](#graphics-and-design)
 -   [R](#r)
 -   [Statistics](#statistics)
+-   [Git](#git)
 -   [Scholarship](#scholarship)
 -   [Communication](#communication)
 -   [Security and Privacy](#security-and-privacy)
 -   [Mixed Reality](#mixed-reality)
 -   [Podcasting](#podcasting)
+-   [Streaming](#streaming)
 -   [Fun](#fun)
 -   [License](#license)
 
@@ -23,7 +25,8 @@ commit](https://img.shields.io/github/last-commit/ryanstraight/resources)
 
 I’ll do my best to keep this organized but I apologize if it’s perhaps a
 little untidy. If you feel like something should be added, go ahead and
-do a pull request and I’ll check it out.
+do a pull request and I’ll check it out. You may find the occasional
+affiliate link.
 
 # Graphics and Design
 
@@ -43,10 +46,16 @@ do a pull request and I’ll check it out.
 -   [Browse Your Life in Pictures – PhotoPrism](https://photoprism.app/)
     -   Privately hosted, open source photo organization tool (think
         Google Photos but local).
+-   [DEVICON \| All programming languages and development tools related
+    icons font](https://devicon.dev/)
 
 # R
 
 Anything related to the R language, specifically.
+
+-   [Live Updates and Bloggers from Data Science Community \|
+    RWeekly.org - Blogs to Learn R from the
+    Community](https://rweekly.org/live)
 
 ## Learning and Teaching with R
 
@@ -101,6 +110,18 @@ Anything related to the R language, specifically.
 -   [Call R from R • callr](https://callr.r-lib.org/)
 -   [stla/findInFiles: Find a pattern in some
     files.](https://github.com/stla/findInFiles)
+-   [progressr 0.8.0: RStudio’s progress bar, Shiny progress updates,
+    and absolute
+    progress](https://www.jottr.org/2021/06/11/progressr-0.8.0/)
+-   [Extract text from pdf in R and word Detection »
+    finnstats](https://finnstats.com/index.php/2021/06/15/extract-text-from-pdf-in-r-and-word-detection/)
+-   [ConviviaR Tools: Post-Publication Collecting ORCIDs for the
+    Authors](https://dwayzer.netlify.app/posts/2021-06-28-post-publication-collecting-orcids-for-the-authors/)
+-   [ConviviaR Tools: Importing Author Information from CrossRef to
+    Wikidata via
+    QuickStatements](https://dwayzer.netlify.app/posts/2021-07-02-importing-author-information-from-crossref-to-wikidata-via-quickstatements/)
+-   [Generate QRcodes with R •
+    qrcode](https://thierryo.github.io/qrcode/index.html)
 
 ## Project management
 
@@ -167,7 +188,8 @@ Anything related to the R language, specifically.
     Templates](https://github.com/cynkra/indiedown)
 -   [carpentries/glosario: A multilingual glossary
     package.](https://github.com/carpentries/glosario)
--   
+-   [Is Your Code Ready for Publication? A Practical Guide to R
+    Markdown](https://www.jvcasillas.com/rmd_workshop/index.html#1)
 
 ### Xaringan-specific
 
@@ -213,6 +235,8 @@ Tables, figures, EDA, et cetera.
     package](https://davidgohel.github.io/ggiraph/index.html)
 -   [daattali/timevis: 📅 Create interactive timeline visualizations in
     R](https://github.com/daattali/timevis#readme)
+-   [Easily Arrange External Figures with Patchwork Alongside ggplot2
+    Figures • figpatch](https://bradyajohnston.github.io/figpatch/)
 
 # Statistics
 
@@ -223,6 +247,11 @@ Tables, figures, EDA, et cetera.
 -   [Stats and R](https://statsandr.com/)
 -   [Statistics glossary - Google
     Docs](https://docs.google.com/document/d/1dsiubZK689KwdiVj2Uv0vLAGkV_BtCuaEIOgg_BaGm8/edit#heading=h.3ajbdlewhre5)
+
+# Git
+
+-   [Introduction to GitHub \| GitHub Learning
+    Lab](https://lab.github.com/githubtraining/introduction-to-github)
 
 # Scholarship
 
@@ -344,6 +373,20 @@ funding opportunities, and so on.
 
 -   [Headliner - Promote your podcast, radio show or blog with
     video](https://www.headliner.app/)
+
+# Streaming
+
+## Streamlabs OBS
+
+-   [The Essential Toolkit for Pro Streamers \| Streamlabs
+    Prime](https://streamlabs.com/goprime?promo=ma%7Bvr%7Dxlab-5f2e-10)
+-   [How to Live Stream Your Classroom for Teachers \|
+    Streamlabs](https://streamlabs.com/content-hub/post/how-to-live-stream-your-classroom-for-teachers)
+-   [How to Record on Streamlabs OBS (Best Settings for 2021) \| by
+    Ethan May \| Streamlabs Blog \| Streamlabs
+    Blog](https://blog.streamlabs.com/how-to-record-on-streamlabs-obs-best-settings-for-2020-62697e078ae)
+-   [How to Stream VR Games With Streamlabs \|
+    Streamlabs](https://streamlabs.com/content-hub/post/how-to-stream-vr-games-with-streamlabs)
 
 # Fun
 
