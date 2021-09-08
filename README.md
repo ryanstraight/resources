@@ -81,6 +81,9 @@ Anything related to the R language, specifically.
     MAT381E: Introduction to Data Science and some useful links for data
     sources available on the
     web.](https://github.com/MAT381E/About-course)
+-   [The Mockup Blog: Displaying verbatim code chunks in RMarkdown and
+    Xaringan
+    presentations](https://themockup.blog/posts/2021-08-27-displaying-verbatim-code-chunks-in-xaringan-presentations/)
 
 ## Tools
 
