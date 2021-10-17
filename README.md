@@ -48,6 +48,9 @@ affiliate link.
         Google Photos but local).
 -   [DEVICON \| All programming languages and development tools related
     icons font](https://devicon.dev/)
+-   [Excalidraw: Virtual whiteboard for sketching hand-drawn like
+    diagrams. Collaborative and end-to-end
+    encrypted.](https://excalidraw.com)
 
 # R
 
@@ -125,6 +128,9 @@ Anything related to the R language, specifically.
     QuickStatements](https://dwayzer.netlify.app/posts/2021-07-02-importing-author-information-from-crossref-to-wikidata-via-quickstatements/)
 -   [Generate QRcodes with R •
     qrcode](https://thierryo.github.io/qrcode/index.html)
+-   [Data Visualization with R](https://rkabacoff.github.io/datavis/)
+    -   This provides a variety of visualization suggestions depending
+        on what number and types of variables you’re working with.
 
 ## Project management
 
@@ -267,6 +273,32 @@ funding opportunities, and so on.
     Advice](https://www.ece.rutgers.edu/~cps/assets/extras/HowToDoResearch_ANRG_WP02001.pdf)
 -   [8 Finding a Topic and Beginning
     Research](https://www.cs.umd.edu/~oleary/gradstudy/node9.html)
+-   [Comprehensive Academic Workflow from Reading to Writing in
+    Markdown](https://chris-grieser.de/Comprehensive-Academic-Workflow-from-Reading-to-Writing-in-Markdown)
+
+### Obsidian
+
+[Obsidian](https://obsidian.md) is a markdown-focused notetaking
+application that means to serve as a “second brain,” more or less.
+
+-   [How to create Indexes & Citation notes - Resolved help - Obsidian
+    Forum](https://forum.obsidian.md/t/how-to-create-indexes-citation-notes/18116)
+-   [platers/obsidian-linter: An Obsidian plugin that enforces
+    consistent markdown
+    styling](https://github.com/platers/obsidian-linter)
+-   [George-debug/obsidian-timeline: Obisdian.md plugin for creating
+    timelines](https://github.com/George-debug/obsidian-timeline/)
+-   [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view
+    Excalidraw drawings in
+    Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+
+And for fun:
+
+-   [DUNGEONS & DRAGONS (D&D)… Knowledge management - Obsidian
+    Forum](https://forum.obsidian.md/t/dungeons-dragons-d-d-or-any-ttrpg-question/15625)
+-   [valentine195/obsidian-5e-statblocks: Create Dungeons and Dragons
+    style statblocks for
+    Obsidian.md](https://github.com/valentine195/obsidian-5e-statblocks)
 
 ## Project Management
 
@@ -290,6 +322,8 @@ funding opportunities, and so on.
     -   (It’s important enough that it’s here *and* in the R section.)
 -   [Reference List: Author/Authors // Purdue Writing
     Lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_author_authors.html)
+-   [APA Style 7th ed. Numbers and Statistics
+    guide](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf)
 
 ## Surveys
 
