@@ -1,5 +1,4 @@
 
--   [Graphics and Design](#graphics-and-design)
 -   [R](#r)
 -   [Statistics](#statistics)
 -   [Git](#git)
@@ -7,12 +6,13 @@
 -   [Communication](#communication)
 -   [Security and Privacy](#security-and-privacy)
 -   [Mixed Reality](#mixed-reality)
+-   [Graphics and Design](#graphics-and-design)
 -   [Podcasting](#podcasting)
 -   [Streaming](#streaming)
 -   [Fun](#fun)
 -   [License](#license)
 
-<img src="assets/banner.png" width="1200" />
+![](assets/banner.png)<!-- -->
 
 ------------------------------------------------------------------------
 
@@ -27,30 +27,6 @@ I’ll do my best to keep this organized but I apologize if it’s perhaps a
 little untidy. If you feel like something should be added, go ahead and
 do a pull request and I’ll check it out. You may find the occasional
 affiliate link.
-
-# Graphics and Design
-
--   [Make Images, Videos and Web Stories for Free in Minutes \| Adobe
-    Spark](https://spark.adobe.com/sp/)
--   [Stock photos, royalty-free images, graphics, vectors & videos \|
-    Adobe Stock](https://stock.adobe.com/)
--   [Canva: Collaborate & Create Amazing Graphic Design for
-    Free](https://www.canva.com/)
--   [Beautiful Free Images & Pictures \|
-    Unsplash](https://unsplash.com/)
--   [Artlist - Royaly Free Music Licensing For VideosMusic Licensing For
-    Video](https://artlist.io/)
--   [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en)
--   [Simple Icons \| 1965 Free SVG icons for popular
-    brands](https://simpleicons.org/)
--   [Browse Your Life in Pictures – PhotoPrism](https://photoprism.app/)
-    -   Privately hosted, open source photo organization tool (think
-        Google Photos but local).
--   [DEVICON \| All programming languages and development tools related
-    icons font](https://devicon.dev/)
--   [Excalidraw: Virtual whiteboard for sketching hand-drawn like
-    diagrams. Collaborative and end-to-end
-    encrypted.](https://excalidraw.com)
 
 # R
 
@@ -70,7 +46,7 @@ Anything related to the R language, specifically.
     learnr](https://github.com/rstudio/gradethis)
 -   [Feed me back now: Tales of automated feedback in R and Python \|
     feed-me-back](https://mine-cetinkaya-rundel.github.io/feed-me-back/)
--   [rfordatascience/tidytuesday: Official repo for the \#tidytuesday
+-   [rfordatascience/tidytuesday: Official repo for the #tidytuesday
     project](https://github.com/rfordatascience/tidytuesday)
     -   (This isn’t instructive, per se, but it’s a great resource for
         seeing just how others work.)
@@ -131,6 +107,11 @@ Anything related to the R language, specifically.
 -   [Data Visualization with R](https://rkabacoff.github.io/datavis/)
     -   This provides a variety of visualization suggestions depending
         on what number and types of variables you’re working with.
+-   [dokato/todor: TODOr - RStudio add-in for finding TODO, FIXME,
+    CHANGED etc. comments in your
+    code.](https://github.com/dokato/todor)
+    -   Amazingly useful if you use comments in your
+        code/markdown/project as notes-to-self.
 
 ## Project management
 
@@ -405,6 +386,30 @@ And for fun:
 -   [Home \| XR Access Initiative](https://xraccess.org/)
 -   [Making VR a Reality in the Classroom \|
     EDUCAUSE](https://er.educause.edu/articles/2021/4/making-vr-a-reality-in-the-classroom?m_i=QtSCd1kwMt4ufLb31pY2T4iKbEMKe1ssE%2BDz_jkqp%2BH7jTCTry5MLwunOB3PCXcohU_u6yUmNer0ShG7XwPOg0GxVSl0b%2BBQQ_&M_BT=2225012242)
+
+# Graphics and Design
+
+-   [Make Images, Videos and Web Stories for Free in Minutes \| Adobe
+    Spark](https://spark.adobe.com/sp/)
+-   [Stock photos, royalty-free images, graphics, vectors & videos \|
+    Adobe Stock](https://stock.adobe.com/)
+-   [Canva: Collaborate & Create Amazing Graphic Design for
+    Free](https://www.canva.com/)
+-   [Beautiful Free Images & Pictures \|
+    Unsplash](https://unsplash.com/)
+-   [Artlist - Royaly Free Music Licensing For VideosMusic Licensing For
+    Video](https://artlist.io/)
+-   [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en)
+-   [Simple Icons \| 1965 Free SVG icons for popular
+    brands](https://simpleicons.org/)
+-   [Browse Your Life in Pictures – PhotoPrism](https://photoprism.app/)
+    -   Privately hosted, open source photo organization tool (think
+        Google Photos but local).
+-   [DEVICON \| All programming languages and development tools related
+    icons font](https://devicon.dev/)
+-   [Excalidraw: Virtual whiteboard for sketching hand-drawn like
+    diagrams. Collaborative and end-to-end
+    encrypted.](https://excalidraw.com)
 
 # Podcasting
 
