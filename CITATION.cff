@@ -1,0 +1,41 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.2.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "resources" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'resources: Links and Tools for Teaching and Learning in the Digital World'
+version: 0.0.1
+abstract: This repository contains an on-going list of resources ranging from data
+  visualization to R to scholarship tools.
+authors:
+- family-names: Straight
+  given-names: Ryan
+  email: ryanstraight@arizona.edu
+  orcid: https://orcid.org/0000-0002-6251-5662
+preferred-citation:
+  type: manual
+  title: 'resources: Links and Tools for Teaching and Learning in the Digital World'
+  authors:
+  - family-names: Straight
+    given-names: Ryan
+    email: ryanstraight@arizona.edu
+    orcid: https://orcid.org/0000-0002-6251-5662
+  version: 0.0.1
+  abstract: This repository contains an on-going list of resources ranging from data
+    visualization to R to scholarship tools.
+  contact:
+  - family-names: Straight
+    given-names: Ryan
+    email: ryanstraight@arizona.edu
+    orcid: https://orcid.org/0000-0002-6251-5662
+  license: CC-BY-4.0
+  year: '2022'
+contact:
+- family-names: Straight
+  given-names: Ryan
+  email: ryanstraight@arizona.edu
+  orcid: https://orcid.org/0000-0002-6251-5662
