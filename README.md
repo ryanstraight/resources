@@ -35,6 +35,10 @@ Anything related to the R language, specifically.
 -   [Live Updates and Bloggers from Data Science Community \|
     RWeekly.org - Blogs to Learn R from the
     Community](https://rweekly.org/live)
+-   [arisp99/RTidbits: GitHub repository to store various tricks and
+    tips for R](https://github.com/arisp99/RTidbits)
+-   [Tips and tricks in RStudio and R Markdown - Stats and
+    R](https://statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/)
 
 ## Learning and Teaching with R
 
@@ -63,9 +67,16 @@ Anything related to the R language, specifically.
 -   [The Mockup Blog: Displaying verbatim code chunks in RMarkdown and
     Xaringan
     presentations](https://themockup.blog/posts/2021-08-27-displaying-verbatim-code-chunks-in-xaringan-presentations/)
+-   [koncina/unilur: A rmarkdown template to create tutorials/practicals
+    or examination papers.](https://github.com/koncina/unilur)
+-   [r-assist/assignr: Tools for Educators Writing Assignments in
+    RMarkdown](https://github.com/r-assist/assignr)
 
 ## Tools
 
+-   [DesiQuintans/librarian: Install, Update, Load Packages from CRAN,
+    Bioconductor, and GitHub in One
+    Step](https://github.com/DesiQuintans/librarian)
 -   [tidyverse/reprex: Render bits of R code for sharing, e.g., on
     GitHub or StackOverflow.](https://github.com/tidyverse/reprex)
 -   [mwip/beautifyR: RStudio addin for formatting Rmarkdown
@@ -112,6 +123,20 @@ Anything related to the R language, specifically.
     code.](https://github.com/dokato/todor)
     -   Amazingly useful if you use comments in your
         code/markdown/project as notes-to-self.
+-   [JohnCoene/countup: ⏱️ countup.js R
+    htmlwidget](https://github.com/JohnCoene/countup)
+-   [swsoyee/pagemapR: 📦 Quickly and easily add a mini map to web
+    page](https://github.com/swsoyee/pagemapR)
+-   [GuangchuangYu/hexSticker: Hexagon sticker in
+    R](https://github.com/GuangchuangYu/hexSticker)
+-   [GuangchuangYu/badger: Badge for R
+    Package](https://github.com/GuangchuangYu/badger)
+-   [yonicd/glossaries: glossary functionality for Rmarkdown
+    documents](https://github.com/yonicd/glossaries)
+-   [njtierney/syn: syn - the
+    thesaurus](https://github.com/njtierney/syn)
+-   [tholman/github-corners: A fresher “Fork me on GitHub”
+    callout.](https://github.com/tholman/github-corners/)
 
 ## Project management
 
@@ -132,6 +157,8 @@ Anything related to the R language, specifically.
 -   [startyourlab/r-project-template: A template to start R projects
     with R Studio, using version control via Git and GitHub by
     default.](https://github.com/startyourlab/r-project-template)
+-   [svmiller/codename: Codename Generation for Organizations, People,
+    Projects, and Whatever Else](https://github.com/svmiller/codename/)
 
 ## RMarkdown
 
@@ -180,6 +207,20 @@ Anything related to the R language, specifically.
     package.](https://github.com/carpentries/glosario)
 -   [Is Your Code Ready for Publication? A Practical Guide to R
     Markdown](https://www.jvcasillas.com/rmd_workshop/index.html#1)
+-   [rchaput/acronymsdown: Adds support for List of Acronyms to
+    RMarkdown documents (rmarkdown, bookdown, pagedown,
+    …).](https://github.com/rchaput/acronymsdown)
+-   [Toniiiio/imageclipr: RStudio Addin: Copy Image from Clipboard into
+    RMarkdown .Rmd file](https://github.com/Toniiiio/imageclipr)
+-   [oniani/docprep: Various templates for document preparation
+    purposes](https://github.com/oniani/docprep)
+-   [sebastiansauer/yart: RMarkdown Template for writing PDF
+    reports](https://github.com/sebastiansauer/yart)
+-   [cynkra/indiedown: Individual RMarkdown
+    Templates](https://github.com/cynkra/indiedown/)
+-   [agricolamz/checkdown: R package for Rmarkdown for creating
+    autocheck questions and
+    hints](https://github.com/agricolamz/checkdown/)
 
 ### Xaringan-specific
 
@@ -227,6 +268,9 @@ Tables, figures, EDA, et cetera.
     R](https://github.com/daattali/timevis#readme)
 -   [Easily Arrange External Figures with Patchwork Alongside ggplot2
     Figures • figpatch](https://bradyajohnston.github.io/figpatch/)
+-   [kassambara/ggpubr: ‘ggplot2’ Based Publication Ready
+    Plots](https://github.com/kassambara/ggpubr)
+-   
 
 # Statistics
 
@@ -242,6 +286,7 @@ Tables, figures, EDA, et cetera.
 
 -   [Introduction to GitHub \| GitHub Learning
     Lab](https://lab.github.com/githubtraining/introduction-to-github)
+-   [github:buttons](https://buttons.github.io/)
 
 # Scholarship
 
@@ -256,6 +301,9 @@ funding opportunities, and so on.
     Research](https://www.cs.umd.edu/~oleary/gradstudy/node9.html)
 -   [Comprehensive Academic Workflow from Reading to Writing in
     Markdown](https://chris-grieser.de/Comprehensive-Academic-Workflow-from-Reading-to-Writing-in-Markdown)
+-   [colearendt/gitlink: An R package to simplify placing GitHub links
+    in your Shiny applications and R Markdown
+    documents](https://github.com/colearendt/gitlink)
 
 ### Obsidian
 
@@ -418,11 +466,16 @@ And for fun:
 
 # Streaming
 
+(Note that OBS Studio is the standard. The Streamlabs OBS links below
+are good for beginners. You may or may not want to use Streamlabs
+depending on how you feel about their business practices. OBS Studio is
+free and open source.)
+
 ## Streamlabs OBS
 
 -   [The Essential Toolkit for Pro Streamers \| Streamlabs
     Prime](https://streamlabs.com/goprime?promo=ma%7Bvr%7Dxlab-5f2e-10)
--   [How to Live Stream Your Classroom for Teachers \|
+-   [How to Live Stream Your Classroom for Teachers \|
     Streamlabs](https://streamlabs.com/content-hub/post/how-to-live-stream-your-classroom-for-teachers)
 -   [How to Record on Streamlabs OBS (Best Settings for 2021) \| by
     Ethan May \| Streamlabs Blog \| Streamlabs
