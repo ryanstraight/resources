@@ -3,9 +3,9 @@ Title: Links and Tools for Teaching and Learning in the Digital World
 Version: 0.0.1
 Authors@R: 
     person("Ryan", "Straight", , "ryanstraight@arizona.edu", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "0000-0002-6251-5662"))
 Description: This repository contains an on-going list of resources ranging from data visualization to R to scholarship tools.
-License: CC BY-NC-SA 4.0
+License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
