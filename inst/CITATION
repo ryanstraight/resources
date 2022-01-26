@@ -1,0 +1,16 @@
+citHeader("To cite resources in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Resources",
+  author   = "Ryan Straight",
+  journal  = ,
+  year     = "2022",
+  volume   = ,
+  number   = ,
+  pages    = ,
+  url      = "https://github.com/ryanstraight/resources",
+  textVersion = paste(
+
+  )
+)
