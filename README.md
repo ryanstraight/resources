@@ -2,6 +2,7 @@
 -   [R](#r)
 -   [Statistics](#statistics)
 -   [Git](#git)
+-   [Web3](#web3)
 -   [Scholarship](#scholarship)
 -   [Communication](#communication)
 -   [Security and Privacy](#security-and-privacy)
@@ -288,6 +289,74 @@ Tables, figures, EDA, et cetera.
     Lab](https://lab.github.com/githubtraining/introduction-to-github)
 -   [github:buttons](https://buttons.github.io/)
 
+# Web3
+
+## News, Education, and Commentary
+
+-   [Web3 is going just great](http://web3isgoinggreat.com/)
+-   [Tech Trends in Higher Ed: Metaverse, NFT and DAO -
+    UPCEA](https://upcea.edu/tech-trends-in-higher-ed-metaverse-nft-and-dao/)
+-   [Web3’s Impact on Higher Education - Grant’s
+    Writing](https://grantnissly.substack.com/p/web3s-impact-on-higher-education)
+-   [Crypto, Culture, &
+    Society](https://cryptosociety.notion.site/Crypto-Culture-Society-01f39bcff26b422183061e6011b16892)
+-   [Paradigm – Medium](https://medium.com/paradigm-fund)
+
+## Decentralized Finance (DeFi)
+
+-   [Lets Do DeFi - DeFi Guides Grandma Can Follow
+    👵🏻](https://letsdodefi.com/)
+
+### Wallets
+
+-   [Frame: A privacy focused Ethereum wallet that runs natively on
+    macOS, Windows and Linux](https://frame.sh/)
+
+### Creating tokens
+
+-   [Mint a Token (unbacked) on xDai in 5 minutes - Gnosis
+    Chain](https://www.xdaichain.com/for-developers/developer-resources/burner-wallet-factory/mint-a-token-unbacked-on-xdai-in-5-minutes)
+-   [How to Create a Cryptocurrency (Token) Without a Single Line of
+    Code
+    💰](https://cronuts.digital/en/how-to-create-cryptocurrency-token/)
+-   [Create MRC20 Token -
+    CoinTool.App](https://cointool.app/createToken/matic)
+
+## Non-Fungible Tokens (NFTs)
+
+-   [Create an NFT on MintGate - MintGate
+    Docs](https://mintgate.gitbook.io/mintgate-docs/create-an-nft/how-to-create-a-token-and-mint-it-into-an-nft)
+-   [GitHub - smakosh/nft-mint-app: Easily mint
+    NFTs](https://github.com/smakosh/nft-mint-app)
+
+## Decentralized Autonomous Organizations (DAOs)
+
+-   [A beginner’s guide to DAOs —
+    Mirror](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+-   [DAO Aims to Fund Cryptocurrency Projects by University
+    Students](https://markets.businessinsider.com/news/currencies/edudao-bitdao-fund-cryptocurrency-projects-university-students-dao-blockchain-web3-2021-12?op=1)
+-   [Universities to Build Blockchain DAO for Affordable Education -
+    CoinDesk](https://www.coindesk.com/markets/2018/05/28/universities-to-build-blockchain-dao-for-affordable-education/)
+-   [Edu DAO](https://edudao.io/)
+-   [What is a DAO? – DAO
+    Central](https://daocentral.com/blog/what-is-a-dao)
+-   [Discover, contribute and earn at
+    DAO](https://www.daolens.com/blog/why-dao/)
+
+## Non-Profits
+
+-   [Cryptocurrency and the Nonprofit: A Beginner’s Guide -
+    BWF](https://www.bwf.com/cryptocurrency-and-the-nonprofit-a-beginners-guide/)
+-   [Potential Legal Frameworks for DAOs — FinTech
+    BitBlog](https://www.polsinellibitblog.com/new-blog/2021/11/16/potential-legal-frameworks-for-daos)
+-   [DAO: What is it? What does it mean for nonprofits? – Nonprofit Law
+    Blog](https://nonprofitlawblog.com/dao-what-is-it-what-does-it-mean-for-nonprofits/)
+
+## Services and dApps
+
+-   [Cryptosurvey - Create reward-based
+    surveys](https://dapp.cryptosurvey.market/sign-in)
+
 # Scholarship
 
 General scholarship content, like research advice, how to cite, find
@@ -493,13 +562,9 @@ free and open source.)
 # License
 
 <!-- CC license begin -->
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-<a property="dct:title" rel="cc:attributionURL" href="https://github.com/ryanstraight/resources/">Resources</a>
-by
-<a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://ryanstraight.com">Ryan
-Straight</a> is licensed under
-<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-ShareAlike
-4.0
-International<br /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
-</p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This
+work is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative
+Commons Attribution 4.0 International License</a>.
 <!-- CC license end -->
