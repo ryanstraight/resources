@@ -1,2 +1,4 @@
 ^LICENSE\.md$
 ^CITATION\.cff$
+^.*\.Rproj$
+^\.Rproj\.user$
