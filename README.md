@@ -75,6 +75,8 @@ Anything related to the R language, specifically.
 -   [GitHub - walkerke/tidycensus: Load US Census boundary and attribute
     data as ‘tidyverse’ and ‘sf’-ready data frames in
     R](https://github.com/walkerke/tidycensus)
+-   [The Grammar of Experimental
+    Designs](https://emitanaka.org/edibble-book/index.html)
 
 ## Tools
 
@@ -114,6 +116,8 @@ Anything related to the R language, specifically.
     finnstats](https://finnstats.com/index.php/2021/06/15/extract-text-from-pdf-in-r-and-word-detection/)
 -   [ConviviaR Tools: Post-Publication Collecting ORCIDs for the
     Authors](https://dwayzer.netlify.app/posts/2021-06-28-post-publication-collecting-orcids-for-the-authors/)
+-   [rorcid introduction •
+    rorcid](https://docs.ropensci.org/rorcid/articles/rorcid.html)
 -   [ConviviaR Tools: Importing Author Information from CrossRef to
     Wikidata via
     QuickStatements](https://dwayzer.netlify.app/posts/2021-07-02-importing-author-information-from-crossref-to-wikidata-via-quickstatements/)
@@ -361,6 +365,8 @@ Tables, figures, EDA, et cetera.
 
 ## Decentralized Education
 
+-   [Resources —
+    edChain](https://www.edchain.io/resources/#documentation)
 -   [We Are Getting Dumber: Can Decentralized Education Make Us Smarter
     Again? -
     BeInCrypto](https://beincrypto.com/we-are-getting-dumber-can-decentralized-education-make-us-smarter-again/)
