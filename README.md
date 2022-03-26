@@ -72,6 +72,9 @@ Anything related to the R language, specifically.
     or examination papers.](https://github.com/koncina/unilur)
 -   [r-assist/assignr: Tools for Educators Writing Assignments in
     RMarkdown](https://github.com/r-assist/assignr)
+-   [GitHub - walkerke/tidycensus: Load US Census boundary and attribute
+    data as ‘tidyverse’ and ‘sf’-ready data frames in
+    R](https://github.com/walkerke/tidycensus)
 
 ## Tools
 
@@ -138,6 +141,8 @@ Anything related to the R language, specifically.
     thesaurus](https://github.com/njtierney/syn)
 -   [tholman/github-corners: A fresher “Fork me on GitHub”
     callout.](https://github.com/tholman/github-corners/)
+-   [GitHub - gaborcsardi/prompt: Dynamic R
+    prompt](https://github.com/gaborcsardi/prompt)
 
 ## Project management
 
@@ -160,6 +165,8 @@ Anything related to the R language, specifically.
     default.](https://github.com/startyourlab/r-project-template)
 -   [svmiller/codename: Codename Generation for Organizations, People,
     Projects, and Whatever Else](https://github.com/svmiller/codename/)
+-   [My easy R script header template – Tim
+    Farewell](https://timfarewell.co.uk/my-r-script-header-template/#:~:text=Open%20RStudio,of%20the%20snippets%20code%20block.)
 
 ## RMarkdown
 
@@ -222,6 +229,10 @@ Anything related to the R language, specifically.
 -   [agricolamz/checkdown: R package for Rmarkdown for creating
     autocheck questions and
     hints](https://github.com/agricolamz/checkdown/)
+-   [R Markdown Lesser-Known Tips & Tricks #2: Cleaning Up Your Code -
+    RStudio](https://www.rstudio.com/blog/r-markdown-tips-tricks-2-cleaning-up-your-code/)
+-   [GitHub - gadenbuie/tweetrmd: Embed Tweets in R
+    Markdown](https://github.com/gadenbuie/tweetrmd)
 
 ### Xaringan-specific
 
@@ -271,7 +282,13 @@ Tables, figures, EDA, et cetera.
     Figures • figpatch](https://bradyajohnston.github.io/figpatch/)
 -   [kassambara/ggpubr: ‘ggplot2’ Based Publication Ready
     Plots](https://github.com/kassambara/ggpubr)
--   
+-   [BBC Visual and Data Journalism cookbook for R
+    graphics](https://bbc.github.io/rcookbook/)
+-   [Some minimal examples •
+    mmtable2](https://ianmoran11.github.io/mmtable2/articles/Some-minimal-examples.html)
+-   [Exploring Histograms](https://tinlizzie.org/histograms/)
+-   [GitHub - ddsjoberg/gtsummary: Presentation-Ready Data Summary and
+    Analytic Result Tables](https://github.com/ddsjoberg/gtsummary)
 
 # Statistics
 
@@ -282,6 +299,15 @@ Tables, figures, EDA, et cetera.
 -   [Stats and R](https://statsandr.com/)
 -   [Statistics glossary - Google
     Docs](https://docs.google.com/document/d/1dsiubZK689KwdiVj2Uv0vLAGkV_BtCuaEIOgg_BaGm8/edit#heading=h.3ajbdlewhre5)
+-   [yuzaR-Blog: Correlation Analysis in R \| Pearson, Spearman, Robust,
+    Bayesian \| How to conduct, visualise and
+    interpret](https://yuzar-blog.netlify.app/posts/2021-12-29-correlationinr/)
+-   [Bayesian power analysis: Part I. Prepare to reject
+    ![H_0](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;H_0 "H_0")
+    with simulation. \| A. Solomon
+    Kurz](https://solomonkurz.netlify.app/post/bayesian-power-analysis-part-i/)
+-   [Bayesian Statistics Explained in Simple English For
+    Beginners](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
 
 # Git
 
@@ -301,6 +327,17 @@ Tables, figures, EDA, et cetera.
 -   [Crypto, Culture, &
     Society](https://cryptosociety.notion.site/Crypto-Culture-Society-01f39bcff26b422183061e6011b16892)
 -   [Paradigm – Medium](https://medium.com/paradigm-fund)
+-   [Coin University - Decentralized Crypto Learning
+    Platform](https://www.coinuniversity.io/)
+-   [Nontechnical Explanation of DeFi Components, Understanding & Using
+    Decentralized Exchanges — The Cronicle Level Three Education – The
+    Cronicle – Crypto.com & Cronos
+    News](https://thecronicle.com/tutorials/nontechnical-explanation-of-defi-components-understanding-and-using-decentralized-exchanges-the-cronicle-level-three-education/fiyucrypto/)
+
+## Identity
+
+-   [Introducing Worldcoin](https://worldcoin.org/)
+-   [Proof Of Humanity](https://www.proofofhumanity.id/)
 
 ## Decentralized Finance (DeFi)
 
@@ -322,6 +359,26 @@ Tables, figures, EDA, et cetera.
 -   [Create MRC20 Token -
     CoinTool.App](https://cointool.app/createToken/matic)
 
+## Decentralized Education
+
+-   [We Are Getting Dumber: Can Decentralized Education Make Us Smarter
+    Again? -
+    BeInCrypto](https://beincrypto.com/we-are-getting-dumber-can-decentralized-education-make-us-smarter-again/)
+-   [Could Crypto Kill
+    College?](https://www.forbes.com/sites/ryancraig/2022/03/04/could-crypto-kill-college/?sh=1ee658f93cec)
+-   [Why Bitcoiners Are Turning to Unschooling for Decentralized
+    Education – Op-Ed Bitcoin
+    News](https://news.bitcoin.com/why-bitcoiners-are-turning-to-unschooling-for-decentralized-education/)
+-   [It’s Time to Decentralize College: How to Make Higher Education
+    Great Again Using Blockchain \|
+    HackerNoon](https://hackernoon.com/decentralize-college-blockchain-higher-education-d25104f2cdee)
+-   [The Rise of Crypto in Higher Education -
+    BlockSocial](https://www.blocksocial.com/articles/the-rise-of-crypto-in-higher-education/)
+-   [Universities Are Flunking Blockchain
+    Tech](https://www.coindesk.com/policy/2021/10/06/universities-are-flunking-blockchain-tech/)
+-   [Blockchain, Cryptocurrency (like Bitcoin), and Higher Education –
+    Sovorel](https://sovorelpublishing.com/index.php/2021/03/14/blockchain-cryptocurrency-like-bitcoin-and-higher-education/)
+
 ## Non-Fungible Tokens (NFTs)
 
 -   [Create an NFT on MintGate - MintGate
@@ -342,6 +399,8 @@ Tables, figures, EDA, et cetera.
     Central](https://daocentral.com/blog/what-is-a-dao)
 -   [Discover, contribute and earn at
     DAO](https://www.daolens.com/blog/why-dao/)
+-   [Why use a DAO for Crypto Education? \| by Joel \| BaconDAO \|
+    Medium](https://medium.com/bacondao/why-use-a-dao-for-crypto-education-9869107ec7e0)
 
 ## Non-Profits
 
@@ -373,6 +432,11 @@ funding opportunities, and so on.
 -   [colearendt/gitlink: An R package to simplify placing GitHub links
     in your Shiny applications and R Markdown
     documents](https://github.com/colearendt/gitlink)
+-   [GitHub - KaleabTessera/Research-Paper-Reading-Template: A markdown
+    template for taking notes to summarize research
+    papers.](https://github.com/KaleabTessera/Research-Paper-Reading-Template)
+-   [Science Topics - Terms, Concepts & Definitions \|
+    ScienceDirect](https://www.sciencedirect.com/topics/index)
 
 ### Obsidian
 
@@ -412,6 +476,12 @@ And for fun:
         Pipeline”](https://doi.org/10.1017/S1049096516000160).)
 -   [Documenting your projects on GitHub · GitHub
     Guides](https://guides.github.com/features/wikis/)
+-   [Go beyond Bookmarks with BrainTool, the online Topic Manager \|
+    BrainTool - Beyond Bookmarks](https://braintool.org/)
+-   [GitHub - mindymallory/research-project-template: This template can
+    be used to begin projects that are reproducible from raw data
+    through published paper or
+    thesis.](https://github.com/mindymallory/research-project-template)
 
 ## Citation
 
@@ -556,6 +626,8 @@ free and open source.)
 
 -   [DOOM Captcha - Captchas don’t have to be
     boring](https://vivirenremoto.github.io/doomcaptcha/)
+-   [Image Dithering in R - Publishable
+    Stuff](https://www.sumsar.net/blog/2019/01/image-dithering-in-r/)
 
 ------------------------------------------------------------------------
 
