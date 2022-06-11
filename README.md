@@ -361,6 +361,8 @@ Tables, figures, EDA, et cetera.
     bookdown](https://jhrcook.github.io/bayesian-data-analysis-course/)
 -   [Marginal Effects, Marginal Means, Predictions, and Contrasts •
     marginaleffects](https://vincentarelbundock.github.io/marginaleffects/)
+-   [Test for Normal Distribution in R-Quick Guide - Data Science
+    Tutorials](https://datasciencetut.com/test-for-normal-distribution-in-r-quick-guide/)
 
 # Git
 
@@ -720,6 +722,29 @@ And for fun:
 -   [Excalidraw: Virtual whiteboard for sketching hand-drawn like
     diagrams. Collaborative and end-to-end
     encrypted.](https://excalidraw.com)
+
+## Twine
+
+-   [Twine + email integration? :
+    twinegames](https://www.reddit.com/r/twinegames/comments/rqgkyw/twine_email_integration/)
+    -   [Mailto Links \| CSS-Tricks -
+        CSS-Tricks](https://css-tricks.com/snippets/html/mailto-links/)
+-   [SugarCube - Twine
+    Cookbook](http://www.twinery.org/cookbook/settingandshowing/sugarcube/sugarcube_settingandshowing.html)
+-   [New to Twine, how do I make a text box or input text? - Twine
+    Forum](https://twinery.org/forum/discussion/8722/new-to-twine-how-do-i-make-a-text-box-or-input-text)
+-   [Question about functionality :
+    twinegames](https://www.reddit.com/r/twinegames/comments/cvmivu/question_about_functionality/)
+-   [Making game remember player’s chosen name :
+    twinegames](https://www.reddit.com/r/twinegames/comments/uhatlx/making_game_remember_players_chosen_name/)
+-   [Twine Game Data to Google Sheets via Javascript version 2 - John
+    Stewart](https://johnastewart.org/coding/twine-game-data-to-google-sheets-via-javascript-version-2/)
+-   [Text box prompt - Twine
+    Forum](https://twinery.org/forum/discussion/7477/text-box-prompt)
+-   [Twine 2 Tutorial: Getting the Player’s
+    Name](https://www.jezner.com/twine-2-tutorial-getting-the-players-name/)
+-   [A Total Beginner’s Guide to Twine 2.1 – Adam
+    Hammond](https://www.adamhammond.com/twineguide/)
 
 # Podcasting
 
