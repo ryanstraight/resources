@@ -40,6 +40,11 @@ Anything related to the R language, specifically.
     tips for R](https://github.com/arisp99/RTidbits)
 -   [Tips and tricks in RStudio and R Markdown - Stats and
     R](https://statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/)
+-   [An Introduction to R](https://intro2r.com/)
+-   [r-assist/assignr: Tools for Educators Writing Assignments in
+    RMarkdown](https://github.com/r-assist/assignr)
+-   [A dive into R Markdown \| Computing for the Social
+    Sciences](https://cfss.uchicago.edu/notes/r-markdown/#r-markdown-basics)
 
 ## Learning and Teaching with R
 
@@ -51,7 +56,7 @@ Anything related to the R language, specifically.
     learnr](https://github.com/rstudio/gradethis)
 -   [Feed me back now: Tales of automated feedback in R and Python \|
     feed-me-back](https://mine-cetinkaya-rundel.github.io/feed-me-back/)
--   [rfordatascience/tidytuesday: Official repo for the #tidytuesday
+-   [rfordatascience/tidytuesday: Official repo for the \#tidytuesday
     project](https://github.com/rfordatascience/tidytuesday)
     -   (This isn’t instructive, per se, but it’s a great resource for
         seeing just how others work.)
@@ -77,6 +82,12 @@ Anything related to the R language, specifically.
     R](https://github.com/walkerke/tidycensus)
 -   [The Grammar of Experimental
     Designs](https://emitanaka.org/edibble-book/index.html)
+-   [rebecca-weiss/Data-Science: projects and reports for data science
+    courses focusing on collecting, analyzing and visualizing data.
+    Primarily in R](https://github.com/rebecca-weiss/Data-Science)
+-   [Acronyms and Glossaries Support for RMarkdown •
+    acronymsdown](https://rchaput.github.io/acronymsdown/)
+-   
 
 ## Tools
 
@@ -118,6 +129,8 @@ Anything related to the R language, specifically.
     Authors](https://dwayzer.netlify.app/posts/2021-06-28-post-publication-collecting-orcids-for-the-authors/)
 -   [rorcid introduction •
     rorcid](https://docs.ropensci.org/rorcid/articles/rorcid.html)
+-   [yonicd/details: R Package to Create Details HTML Tag for Markdown
+    and Package Documentation](https://github.com/yonicd/details)
 -   [ConviviaR Tools: Importing Author Information from CrossRef to
     Wikidata via
     QuickStatements](https://dwayzer.netlify.app/posts/2021-07-02-importing-author-information-from-crossref-to-wikidata-via-quickstatements/)
@@ -147,6 +160,11 @@ Anything related to the R language, specifically.
     callout.](https://github.com/tholman/github-corners/)
 -   [GitHub - gaborcsardi/prompt: Dynamic R
     prompt](https://github.com/gaborcsardi/prompt)
+-   [Interpreted String Literals • glue](https://glue.tidyverse.org/)
+-   [gadenbuie/epoxy: Extra-strength glue engines for R Markdown and
+    Quarto](https://github.com/gadenbuie/epoxy)
+-   [deepanshu88/summaryBox: Value and Info Boxes in Shiny Apps and
+    Rmarkdown (Bootstrap 4)](https://github.com/deepanshu88/summaryBox)
 
 ## Project management
 
@@ -171,9 +189,14 @@ Anything related to the R language, specifically.
     Projects, and Whatever Else](https://github.com/svmiller/codename/)
 -   [My easy R script header template – Tim
     Farewell](https://timfarewell.co.uk/my-r-script-header-template/#:~:text=Open%20RStudio,of%20the%20snippets%20code%20block.)
+-   [jrcalabrese/tablecloth: An R package to create and format APA-style
+    tables.](https://github.com/jrcalabrese/tablecloth)
 
 ## RMarkdown
 
+-   [Quarto - Get Started](https://quarto.org/docs/get-started/)
+    -   Not RMarkdown, specifically, but a related method of writing
+        that I’m really enjoying.
 -   [papaja: Reproducible APA manuscripts with R
     Markdown](http://frederikaust.com/papaja_man/)
 -   [A rmarkdown Template that Can be Highly Customized •
@@ -233,10 +256,19 @@ Anything related to the R language, specifically.
 -   [agricolamz/checkdown: R package for Rmarkdown for creating
     autocheck questions and
     hints](https://github.com/agricolamz/checkdown/)
--   [R Markdown Lesser-Known Tips & Tricks #2: Cleaning Up Your Code -
+-   [R Markdown Lesser-Known Tips & Tricks \#2: Cleaning Up Your Code -
     RStudio](https://www.rstudio.com/blog/r-markdown-tips-tricks-2-cleaning-up-your-code/)
 -   [GitHub - gadenbuie/tweetrmd: Embed Tweets in R
     Markdown](https://github.com/gadenbuie/tweetrmd)
+-   [Changing fonts in RMarkdown PDFs \| Cecina Babich
+    Morrow](https://babichmorrowc.github.io/post/changing-fonts-in-rmarkdown-pdfs/)
+-   [Font typefaces - Overleaf, Online LaTeX
+    Editor](https://www.overleaf.com/learn/latex/Font_typefaces)
+    -   This is a list of fonts to use in YAML as per above.
+-   [jumpingrivers/namer: R package for labelling chunks of RMarkdown
+    files!](https://github.com/jumpingrivers/namer)
+-   [Toniiiio/imageclipr: RStudio Addin: Copy Image from Clipboard into
+    RMarkdown .Rmd file](https://github.com/Toniiiio/imageclipr)
 
 ### Xaringan-specific
 
@@ -293,6 +325,11 @@ Tables, figures, EDA, et cetera.
 -   [Exploring Histograms](https://tinlizzie.org/histograms/)
 -   [GitHub - ddsjoberg/gtsummary: Presentation-Ready Data Summary and
     Analytic Result Tables](https://github.com/ddsjoberg/gtsummary)
+-   [marinebon/infographiqR: R functions for creation of interactive
+    intelligent infographics, ie
+    infographiq](https://github.com/marinebon/infographiqR)
+    -   Example: [info-demo \| Infographiq boilerplate &
+        demo](https://marinebon.org/info-demo/)
 
 # Statistics
 
@@ -312,6 +349,18 @@ Tables, figures, EDA, et cetera.
     Kurz](https://solomonkurz.netlify.app/post/bayesian-power-analysis-part-i/)
 -   [Bayesian Statistics Explained in Simple English For
     Beginners](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
+-   [Tidy t-Tests with infer •
+    infer](http://infer.tidymodels.org/articles/t_test.html)
+-   [psych252/psych252slides:
+    Slides](https://github.com/psych252/psych252slides)
+    -   This repository contains the slides and RMarkdown notes for the
+        course “Psych 252: Statistical methods for the behavioral and
+        social sciences” taught by Tobias Gerstenberg at Stanford
+        University.
+-   [Bayesian Data Analysis course \|
+    bookdown](https://jhrcook.github.io/bayesian-data-analysis-course/)
+-   [Marginal Effects, Marginal Means, Predictions, and Contrasts •
+    marginaleffects](https://vincentarelbundock.github.io/marginaleffects/)
 
 # Git
 
@@ -320,6 +369,11 @@ Tables, figures, EDA, et cetera.
 -   [github:buttons](https://buttons.github.io/)
 
 # Web3
+
+-   [Research at Web3 Foundation — Research at
+    W3F](https://research.web3.foundation/en/latest/)
+-   [Ethereum Foundation & community grant programs \|
+    ethereum.org](https://ethereum.org/gl/community/grants/)
 
 ## News, Education, and Commentary
 
@@ -342,6 +396,9 @@ Tables, figures, EDA, et cetera.
 
 -   [Introducing Worldcoin](https://worldcoin.org/)
 -   [Proof Of Humanity](https://www.proofofhumanity.id/)
+-   [Decentralized Society: Finding Web3’s Soul by E. Glen Weyl, Puja
+    Ohlhaver, Vitalik Buterin ::
+    SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 
 ## Decentralized Finance (DeFi)
 
@@ -384,6 +441,11 @@ Tables, figures, EDA, et cetera.
     Tech](https://www.coindesk.com/policy/2021/10/06/universities-are-flunking-blockchain-tech/)
 -   [Blockchain, Cryptocurrency (like Bitcoin), and Higher Education –
     Sovorel](https://sovorelpublishing.com/index.php/2021/03/14/blockchain-cryptocurrency-like-bitcoin-and-higher-education/)
+-   [An Investigation into the use of Non-Fungible Tokens on College
+    Campuses \| by Jake DiBattista \| Coinmonks \| Jun, 2022 \|
+    Medium](https://medium.com/coinmonks/an-investigation-into-the-use-of-non-fungible-tokens-on-college-campuses-3ffa6686c2f4)
+-   [Ed3 DAO & Ed3 Educators
+    Events](https://www.notion.so/cbd68034f8e14df9b930b22cecc25a9e?v=6b29d78bbc874e4f82f1736e4141c62f)
 
 ## Non-Fungible Tokens (NFTs)
 
@@ -427,6 +489,15 @@ Tables, figures, EDA, et cetera.
 General scholarship content, like research advice, how to cite, find
 funding opportunities, and so on.
 
+## P&T
+
+-   [Tips on Getting Tenure—From Those Who’ve Done
+    It](https://us.aicpa.org/interestareas/accountingeducation/newsandpublications/how-to-get-tenure)
+-   [Insiders’ tactics for securing
+    tenure](https://www.apa.org/monitor/2019/10/tactics-tenure)
+-   [Tips for success on your path to
+    tenure](https://www.elsevier.com/connect/tips-for-success-on-your-path-to-tenure)
+
 ## Writing and Doing Research
 
 -   [How to do Graduate Research, Some
@@ -443,6 +514,13 @@ funding opportunities, and so on.
     papers.](https://github.com/KaleabTessera/Research-Paper-Reading-Template)
 -   [Science Topics - Terms, Concepts & Definitions \|
     ScienceDirect](https://www.sciencedirect.com/topics/index)
+-   [How to Design Your Own Personal Knowledge Management System —
+    Martine
+    Ellis](https://www.martineellis.com/writing/personal-knowledge-management)
+-   [Create Your Summer Writing Plan in 3
+    Steps](https://www.annaclemens.com/blog/create-summer-writing-plan-scientific-writing)
+-   [The Four Cornerstones to Writing More: Write with Focus - cathy
+    mazak](https://www.cathymazak.com/write-with-focus/)
 
 ### Obsidian
 
@@ -459,6 +537,21 @@ application that means to serve as a “second brain,” more or less.
 -   [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view
     Excalidraw drawings in
     Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+-   [My Tech Toolkit for Academic Research and Study — Martine
+    Ellis](https://www.martineellis.com/writing/my-tech-toolkit-for-academic-research-and-study)
+-   [How I Use Obsidian for Note-Taking and Note-Making — Martine
+    Ellis](https://www.martineellis.com/writing/how-i-use-obsidian-for-note-taking-and-note-making)
+-   [A set a periodic note templates for
+    Obsidian.md](https://codetea.com/a-set-a-periodic-note-templates-for-obsidian-md/)
+-   [liamcain/obsidian-lapel: 🤵 Dress up your editor. Obsidian plugin
+    to show the heading level in the
+    gutter.](https://github.com/liamcain/obsidian-lapel)
+-   [IdreesInc/Waypoint: Obsidian plugin that gives you the power to
+    generate dynamic MOCs in your folder notes. Enables folders to show
+    up in the graph view and removes the need for messy
+    tags!](https://github.com/IdreesInc/Waypoint)
+-   [My Obsidian Daily Note is Growing Up! \|
+    Produclivity](https://medium.com/produclivity/aww-its-2022-and-my-obsidian-daily-note-is-growing-up-b113c919552c)
 
 And for fun:
 
@@ -488,6 +581,9 @@ And for fun:
     be used to begin projects that are reproducible from raw data
     through published paper or
     thesis.](https://github.com/mindymallory/research-project-template)
+-   [An R Markdown Approach to Academic Workflow for the Social Sciences
+    \| Steven V.
+    Miller](http://svmiller.com/blog/2019/07/academic-workflow-rmarkdown-guide-template/)
 
 ## Citation
 
@@ -509,6 +605,27 @@ And for fun:
 
 -   [Research Grants on Education: Small \| The Spencer
     Foundation](https://www.spencer.org/grant_types/small-research-grant)
+
+## Grant Writing
+
+-   [What a $500,000 grant proposal looks like - Austin Z.
+    Henley](https://austinhenley.com/blog/500kgrant.html)
+-   [How to Nail Broader Impacts in Your Next NSF Grant
+    Application](https://asm.org/Articles/2018/June/how-to-nail-broader-impacts-in-your-next-nsf-grant)
+-   [how-to-write-a-winning-nsf-proposal.pdf](https://www.unomaha.edu/college-of-information-science-and-technology/research/how-to-write-a-winning-nsf-proposal.pdf)
+-   [Example of accepted NSF
+    proposal](https://www.usf.edu/arts-sciences/research-scholarship/proposal-tools/sylvain-charbonnier-nsf-geo-career.pdf)
+-   [Another funded NSF
+    proposal](https://jabunce.files.wordpress.com/2014/11/bunce_nsf_proposal_2012_funded.pdf)
+    from [Sample NSF Proposals \| John
+    Bunce](https://jabunce.wordpress.com/sample-nsf-proposals/)
+-   [TysonStanley/biosketchr: An R package built on RMarkdown to create
+    biosketches (e.g. for
+    NIH)](https://github.com/TysonStanley/biosketchr)
+-   [Lessons from serving on NSF panels \| Small Pond
+    Science](https://smallpondscience.com/2017/01/02/lessons-from-serving-on-nsf-panels/)
+-   [Advice on Writing Proposals - particularly to
+    NSF](https://www.cs.cmu.edu/~sfinger/advice/advice.html)
 
 ## Peer review
 
