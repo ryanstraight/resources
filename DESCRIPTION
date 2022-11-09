@@ -1,6 +1,6 @@
 Package: resources
 Title: Links and Tools for Teaching and Learning in the Digital World
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person("Ryan", "Straight", , "ryanstraight@arizona.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6251-5662"))
